@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mosaiquefm" tvg-name="MosaiqueFM" tvg-logo="http://logo.panel.cx/logo/MBCGROUP/MBCDRAMA-1.png" group-title="AR | mosaiquefm",MOSAIQUE FM
+http://Radio.mosaiquefm.net:8000/mosalive
+#EXTINF:-1 tvg-id="diwanfmfm" tvg-name="DIWAN FM" tvg-logo="http://logo.panel.cx/logo/MBCGROUP/MBCDRAMA-1.png" group-title="AR | diwanfm",DIWAN FM
+https://streaming.diwanfm.net/stream
+#EXTINF:-1 tvg-id="diwanfmfm" tvg-name="IFM FM" tvg-logo="http://logo.panel.cx/logo/MBCGROUP/MBCDRAMA-1.png" group-title="AR | ifm",IFM FM
+https://live.ifm.tn/radio/8000/ifmlive?1585267848
+#EXTINF:-1 tvg-id="diwanfmfm" tvg-name="EXPRESS FM" tvg-logo="http://logo.panel.cx/logo/MBCGROUP/MBCDRAMA-1.png" group-title="AR | expressfm",expressfm FM
+https://expressfm.ice.infomaniak.ch/expressfm-64.mp3
